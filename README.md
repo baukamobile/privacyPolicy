@@ -1,7 +1,7 @@
 # privacyPolicy
 
-PRIVACY POLICY
-Last updated May 26, 2025
+# PRIVACY POLICY
+* Last updated May 26, 2025
 
 
 
